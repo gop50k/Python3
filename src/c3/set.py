@@ -7,3 +7,5 @@ print(fruits)
 box1 = {"ハンマー", "釘", "ペンチ"}
 box2 = {"ハンマー", "釘"}
 print(box1 - box2)
+
+# コメント
