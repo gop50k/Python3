@@ -1,4 +1,3 @@
-# coding: UTF-8
 # 足算を行うプログラム
 #! /usr/bin/env python3
 
