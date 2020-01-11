@@ -37,5 +37,3 @@ class Camper(Car):
 
     def make_ice(self):
         print('氷を作成しました。')
-
-help(Camper)
