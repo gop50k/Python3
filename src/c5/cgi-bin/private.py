@@ -11,3 +11,5 @@ class Game:
 game = Game()
 game.play()
 game.__goal()
+# 非公開メソッドのアクセス方法
+# game._Game__goal()
