@@ -4,7 +4,6 @@
 from abc import ABCMeta, abstractclassmethod
 
 class MazaRobot(metaclass=ABCMeta):
-
     @abstractclassmethod
     def __init__(self):
         pass
