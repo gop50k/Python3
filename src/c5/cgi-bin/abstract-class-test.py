@@ -1,5 +1,5 @@
 # coding: UTF-8
-# 抽象基底をテストするプログラム
+# 抽象基底クラスをテストするプログラム
 
 from abstract-class import MazeRobot
 class MazaRobotTest(MazeRobot):
