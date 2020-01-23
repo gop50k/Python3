@@ -31,4 +31,3 @@ test_duck(inu)
 
 neko = Cat()
 test_duck(neko)
-
